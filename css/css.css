@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+
+body
+{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	background-image: url(../images/cookies.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.purple
+{color: purple}
+
+p
+{
+	color: chocolate;
+ 	font-size: 15px;
+}
+
+a
+{
+	color: #BD1447;
+	font-size: 15px;
+}
+
+a:hover
+{
+	color: #402F34;
+}
+
+h1
+{
+	font-family: 'Bangers', cursive;
+}
+
+.card-pepites
+{
+	background-image: url(../images/pepites.jpg);
+}
+
+.card-smarties
+{
+	background-image: url(../images/smarties.jpg);
+}
+
+.card-noix
+{
+	background-image: url(../images/Noix-Pecan.png);
+}
+
+.card-choco
+{
+	background-image: url(../images/3choco.jpg);
+}
+
+.card
+{
+	text-align: center;
+}
+
+.block_page
+{
+	background-color: white;
+	padding: 10px;
+	width: 60%;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h3
+{
+	margin-left: 200px;
+}
+
+.row
+{
+	background-color: white;
+	padding: 10px;
+}
